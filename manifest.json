@@ -1,6 +1,6 @@
 {
-    "name": "lydia",
-    "short_name": "lydia",
+    "name": "bosheuvel",
+    "short_name": "bosheuvel",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
@@ -9,6 +9,11 @@
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
+        {
+            "src": "icons/logo.png",
+            "sizes": "1353x913",
+            "type": "image/png"
+        },
         {
             "src": "icons/Icon-192.png",
             "sizes": "192x192",
