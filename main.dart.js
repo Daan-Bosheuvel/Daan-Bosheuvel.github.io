@@ -38500,7 +38500,7 @@ default:s=B.zb
 r="todo app"}return A.ayp(A.XW(q,!0,B.iP,!0,A.bD(r,q,q,q,q,q,q),q),B.iP,s,B.KW)}}
 A.Ku.prototype={
 G(a){var s=this,r=t.p
-return new A.IH(A.axk(A.b([A.cw(A.b([B.KN,s.p6(a,B.KX,"Todo",B.Fu),s.p6(a,B.KY,"Quiz app",B.FH),s.p6(a,B.tM,"Expense tracker",B.FG),s.p6(a,B.KZ,"Typer",B.FJ),s.p6(a,B.L_,"RGB Guesser",B.FI),s.p6(a,B.L0,"Components",B.FE)],r),B.x,B.A,B.C)],r),null,null,!1),null)},
+return new A.IH(A.axk(A.b([A.cw(A.b([B.KN,s.p6(a,B.KX,"Todo",B.Fu),s.p6(a,B.KY,"Quiz app",B.FH),s.p6(a,B.KZ,"Expense tracker",B.FG),s.p6(a,B.tM,"Typer",B.FJ),s.p6(a,B.L_,"RGB Guesser",B.FI),s.p6(a,B.L0,"Components",B.FE)],r),B.x,B.A,B.C)],r),null,null,!1),null)},
 p6(a,b,c,d){var s=null,r=b===A.t4(a,!0,t.Ez).a?B.j:B.D0
 return A.fM(B.G,!0,s,new A.JV(A.iY(d,r,s,s),A.bD(c,s,s,s,A.fe(s,s,r,s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.a8C(this,a,b),s),B.u,B.q,0,s,s,s,s,s,B.bC)}}
 A.a8C.prototype={
@@ -89478,8 +89478,8 @@ B.KV=new A.z_(null,null,null,null,null,null,null,null,null,null)
 B.KW=new A.Ku(null)
 B.KX=new A.m6(0,"todo")
 B.KY=new A.m6(1,"quiz")
-B.tM=new A.m6(2,"expensetracker")
-B.KZ=new A.m6(3,"typer")
+B.KZ=new A.m6(2,"expensetracker")
+B.tM=new A.m6(3,"typer")
 B.L_=new A.m6(4,"rgb")
 B.L0=new A.m6(5,"components")
 B.dw=new A.Kv(0,"traditional")
