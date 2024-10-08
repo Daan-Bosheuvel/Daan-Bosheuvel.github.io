@@ -38287,7 +38287,7 @@ if(r+q.f<=q.e)s.a3(new A.akV(s))},
 a4m(){var s=this,r=s.d,q=s.a
 if(r-q.f>=q.d)s.a3(new A.akU(s))},
 G(a){var s=null
-return A.dg(A.b([A.asq("../assets/icons/minsq.PNG",this.ga4l()),new A.bm(B.jh,A.bD(""+this.d,s,s,s,s,s,s),s),A.asq("../assets/icons/plussq.PNG",this.gaaq())],t.p),B.x,B.bT,B.C)}}
+return A.dg(A.b([A.asq("../assets/icons/minsq.png",this.ga4l()),new A.bm(B.jh,A.bD(""+this.d,s,s,s,s,s,s),s),A.asq("../assets/icons/plussq.png",this.gaaq())],t.p),B.x,B.bT,B.C)}}
 A.akV.prototype={
 $0(){var s=this.a,r=s.d,q=s.a
 r+=q.f
@@ -38512,7 +38512,7 @@ return null},
 $S:0}
 A.Kg.prototype={
 G(a){var s=null
-return A.d4(s,A.a3U("../assets/icons/logo.PNG"),B.u,s,s,s,140,B.EL,s,s,s,1/0)}}
+return A.d4(s,A.a3U("../assets/icons/logo.png"),B.u,s,s,s,140,B.EL,s,s,s,1/0)}}
 A.m6.prototype={
 J(){return"NavigationItem."+this.b}}
 A.oG.prototype={}
