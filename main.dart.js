@@ -38991,7 +38991,7 @@ return this.b?s.toLowerCase()===a.toLowerCase():s===a},
 BU(){var s,r,q=this
 while(!0){s=q.e
 r=s.length
-if(!(r!==0&&q.c&&B.d.n("\xb4.,\u2014'\u2019\u201d\"!?;:-(){}[]/\\@#%^&*<>",s[0])))break
+if(!(r!==0&&q.c&&B.d.n("\xb4.,\u2014'\u2019\u201d\"!?;:-(){}[]/\\@#%^&*<>1234567890",s[0])))break
 q.w=q.w+s[0]
 q.e=B.d.ab(s,1,r)}},
 Jn(){var s=this.e
